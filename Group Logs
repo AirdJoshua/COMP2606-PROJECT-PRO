@@ -52,3 +52,18 @@ Users
 
 Non-user: 
 •    Streaming service companies
+
+
+
+
+User Requirements:
+Login     Users shall be able to log into the application using a valid username and password. 
+They will be greeted with the logic screen as they enter the application. User who has logged in previously can stay signed in. 
+Registration with Stream Services account     Users who have existing streaming services account can would be able to register with the simple easy to understand registration form.
+Registration without any Stream Services account     Users who are not subscribed to any streaming service can register with us to any two or more streaming services of their choice. Prices and plans would be displayed, and payment options would be given.
+Profile
+Interface     The user interface shall be menu driven. It shall provide dialog boxes, help screen, dropdown list screen. 
+Customization     The user can freely customize the content in the application. The system will allow you to choose deigns, allow the user to move around content or shrink content. 
+Reset customization     A reset option shall be available to the user to reset to original design.
+Search
+Help center
