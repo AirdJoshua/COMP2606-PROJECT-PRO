@@ -29,3 +29,26 @@ Goals before next meeting:
 -User requirements 
 -System requirements
 -Functional and Non Requirments 
+
+
+23/2/2021
+Meeting of goup members to discuss the functional and non functional elements of Stream IO.
+
+Problem Definition 
+In the most recent of times, streaming services having been on the rise. From Netflix to Disney+, more and more people are subscribing to streaming services, more and more services are coming out yearly. 
+Individuals who are subscribed to more than one service might feel overwhelmed with the amount of content to watch and the different applications to naviagte.
+As a person who owns Disney+ and Netflix I find it tedious to switch from application to application. I would prefer if all the content were in one area to navigate through. 
+This is the goal of Stream IO, to gather all your accounts from various streaming services and combine them into one application.
+
+GOALS OF SYSTEM AND AIM 
+The overall goal of StreamIO is to make the user life easier when it comes to choosing content. 
+The goal of Innovators to design whole software, which fulfils all the requirements of customer.
+We aim to make to make a system that is easy to use and understand and allows for customization.
+
+
+Users 
+•    Individuals who own more than one streaming service
+•    Individual who are interested into getting a bundle of streaming services at a discounted price. 
+
+Non-user: 
+•    Streaming service companies
