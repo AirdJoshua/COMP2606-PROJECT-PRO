@@ -56,7 +56,7 @@ Non-user:
 
 
 
-User Requirements:
+User Requirements: DRAFT 1 
 Login -    Users shall be able to log into the application using a valid username and password. 
 They will be greeted with the logic screen as they enter the application. User who has logged in previously can stay signed in. 
 Registration with Stream Services account -    
@@ -73,3 +73,6 @@ Reset customization -A reset option shall be available to the user to reset to o
 Search
 
 Help center
+
+User Requirement: DRAFT 2 
+
