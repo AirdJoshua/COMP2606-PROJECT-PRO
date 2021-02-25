@@ -76,3 +76,22 @@ Help center
 
 User Requirement: DRAFT 2 
 
+Login 	Users shall be able to log into the application using a valid 
+account.
+User shall be able to stay signed in with the stay signed in button. 
+
+Registration with Stream Services account 	User shall be able to register with streamIO 
+User shall be able to register with valid streaming service accounts.
+
+Registration without any Stream Services account 	User shall be able to register with streamIO bundles 
+Profile	
+Interface 	User shall be able to customize interface. 
+User shall be able to resize content using the edit feature. 
+User shall be able to reset customization using the reset button 
+Search 	`User shall be able to search film from any streaming service using the search bar.
+User shall be able to search tv show from any streaming service using the search bar.
+
+Help center	
+*Privacy 	
+VPN	
+Cancel account 	User shall be able to cancel account at any time. 
