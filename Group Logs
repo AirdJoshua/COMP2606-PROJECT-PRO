@@ -60,9 +60,9 @@ User Requirements:
 Login -    Users shall be able to log into the application using a valid username and password. 
 They will be greeted with the logic screen as they enter the application. User who has logged in previously can stay signed in. 
 Registration with Stream Services account -    
-Users who have existing streaming services account can would be able to register with the simple easy to understand registration form.
-Registration without any Stream Services account -    
-Users who are not subscribed to any streaming service can register with us to any two or more streaming services of their choice. Prices and plans would be displayed, and payment options would be given.
+Users who have existing streaming service accounts would be able to register with the easy to understand registration form.
+Registration without any Streaming Service accounts -    
+Users who are not subscribed to any streaming service can register with us to any two or more streaming services of their choice. Costing for various packages would be displayed upon completiong.
 Profile-
 Interface- The user interface shall be menu driven. It shall provide dialog boxes, help screen, dropdown list screen. 
 
