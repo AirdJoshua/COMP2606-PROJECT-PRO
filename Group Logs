@@ -80,18 +80,26 @@ Login 	Users shall be able to log into the application using a valid
 account.
 User shall be able to stay signed in with the stay signed in button. 
 
-Registration with Stream Services account 	User shall be able to register with streamIO 
-User shall be able to register with valid streaming service accounts.
+Registration with Stream Services account 	Potential users who create a Stream IO Account will have the option to link their personal streaming services (Netflix, Hulu etc) to their 
+Stream IO account.
 
-Registration without any Stream Services account 	User shall be able to register with streamIO bundles 
+
+Registration without any Stream Services account 	Users who are new to streaming will have the option to create an account and subscribe to service bundles which would be at a 
+discounted cost.
+
 Profile	
-Interface 	User shall be able to customize interface. 
-User shall be able to resize content using the edit feature. 
-User shall be able to reset customization using the reset button 
-Search 	`User shall be able to search film from any streaming service using the search bar.
-User shall be able to search tv show from any streaming service using the search bar.
+Interface 	User will interact with Stream IO and its content through a customizable User Interface. 
+Users will be able to search/filter through content by name or genre using the seach bar.
+Users will be able to bookmark their favurite shows/ movies  through the "Add to list " function.
+Users will be able to customize the user interface to their liking from a list of preset designs and colours. 
+Users will be able to reset interface design to the default preset using a reset button 
 
-Help center	
-*Privacy 	
-VPN	
-Cancel account 	User shall be able to cancel account at any time. 
+
+Help center-
+UserS will be able to contact Stream IO's help desk for assistance to any Stream IO related questions.
+
+VPN-
+Users pay to remove Geological Restrictions from content allowing them to view content from different regions.
+
+Cancel account -
+Users will be able to close their Stream IO account which deletes their personal information and stop charges to their account. No refund is given    
