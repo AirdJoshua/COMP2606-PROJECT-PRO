@@ -119,3 +119,15 @@ Maintanance Team(servicing and maintaining the system), Streaming Platforms( net
 15/3/2021
 What was noticed ,what we can add
  verifiying user credentials
+ 
+ 
+ 16-3-2021
+ sequence diagram layout
+ user logs into account
+ presses setting icon in the top corner 
+ clicks account tab
+ clicks add streaming service button
+ choses desired service netflix etc
+ enters streaming service credentials
+ stream server contacts service to verify account credentials
+ once verified it is added to subscribers account and can be accessed by stream IO
