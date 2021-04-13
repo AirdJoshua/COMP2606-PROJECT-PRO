@@ -1,5 +1,6 @@
 Narin Ramnehal - 816015907
 Jerome Charles - 816021939
+Joshua Aird - 816021566
 
 28/1/2021
 meeting 1
@@ -8,12 +9,12 @@ of the meetings and anything else that may be of relevance to the project.
 
 08/2/2021
 Meeting 2 
-Previous meetings were scraped because we recveived an email from miss stating project was not do able and to come up with a better idea.
-We brain stormed but could not decide. 
+Previous meetings were scraped because we recveived an email from our lecturer stating project was not do able and to come up with a better idea.
+We brain stormed but could not decide in such a short time spand. 
 
 10/2/2021 
 Meeting 3 
-We decided on a application that combinds streaming services. We came up with the :
+We decided on a application that combinds video streaming services. We came up with the :
 -Problem solution
 -Description of project 
 -Features 
@@ -21,24 +22,25 @@ We decided on a application that combinds streaming services. We came up with th
 
 17/2/2021 
 Meeting 4 
-We did the Goals and Aims of system, target users and user stories 
+We did the Goals and Aims of system, target users and user stories. 
 
 18/2/2021
 Meeting 5
-We discussed what we are goin to talked to miss about and the future of the project:
+
+We discussed the future and feasibility of the project with our lecturer :
 Goals before next meeting:
--Confirm with miss project 
+-Confirm various parts of the project with lecturer such as- 
 -User requirements 
 -System requirements
 -Functional and Non Requirments 
 
-things to edit in use case diagram
-Take out movies watch so and so 
-and take out tier system in the use case diagram
+Changes to be made in the STREAMIO Use Case Diagram:
+Remove movies watch from the diagram 
+Remove the tier system in the use case diagram
 
 23/2/2021
 Meeting 6
-Meeting of goup members to discuss the functional and non functional elements of Stream IO.
+Meeting of goup members to discuss the functional and non functional elements of Stream IO and to discuss other key compnents of the project.
 
 Problem Definition 
 In the most recent of times, streaming services having been on the rise. From Netflix to Disney+, more and more people are subscribing to streaming services, more and more services are coming out yearly. 
@@ -117,19 +119,20 @@ No refunds are given to users who buy 6 months / 1 year packages.
 
 
 10/3/2021
+Meeting 7
 Verifying actors and creating new actors in the system
 Creating new actors :The system(website and server) ,The Bank(For payment) ,Time(the system creates a receipt and requests payment every 30 days)
 Maintanance Team(servicing and maintaining the system), Streaming Platforms( netflix ,hulu amazon etc)
 
 15/3/2021
-Meeting 7
+Meeting 8
 What was noticed ,what we can add
  verifiying user credentials
  
  
  16-3-2021
- Meeting 8
- sequence diagram layout
+ Meeting 9
+ Creating the framework of the Sequence Diagram layout
  user logs into account
  presses setting icon in the top corner 
  clicks account tab
@@ -142,5 +145,6 @@ What was noticed ,what we can add
 
 
 9-4-2021
-Meeting 9
-Chaanges to be made to class diagram and sequnce diagram to correct mistakes.
+Meeting 10
+Chaanges to be made to class diagram and sequnce diagram to correct mistakes as discussed with lecturer.
+The lack of the use of verbs seems to be our problem
