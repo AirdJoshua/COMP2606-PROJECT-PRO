@@ -134,7 +134,7 @@ What was noticed ,what we can add
  presses setting icon in the top corner 
  clicks account tab
  clicks add streaming service button
- choses desired service netflix etc
+ chooses desired service netflix etc
  enters streaming service credentials
  stream server contacts service to verify account credentials
  once verified it is added to subscribers account and can be accessed by stream IO
@@ -142,4 +142,5 @@ What was noticed ,what we can add
 
 
 9-4-2021
-Chaanges to be made to class diagram and sequnce diagram
+Meeting 9
+Chaanges to be made to class diagram and sequnce diagram to correct mistakes.
